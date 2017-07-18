@@ -5,4 +5,4 @@ Click [here](https://github.com/weiserM13/BattleTank_UE4) to go to BattleTank re
 
 ## Lecture List
 * BT01 Intro, Notes & Assets
-*Bt02 Game Design Documment (GDD)
+* Bt02 Game Design Documment (GDD)
